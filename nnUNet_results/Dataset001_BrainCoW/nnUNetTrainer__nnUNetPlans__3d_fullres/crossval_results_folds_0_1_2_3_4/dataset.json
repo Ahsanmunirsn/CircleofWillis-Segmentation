@@ -1,0 +1,25 @@
+{
+    "channel_names": {
+        "0": "Combine"
+    },
+    "labels": {
+        "background": 0,
+        "BA": 1,
+        "R-PCA": 2,
+        "L-PCA": 3,
+        "R-ICA": 4,
+        "R-MCA": 5,
+        "L-ICA": 6,
+        "L-MCA": 7,
+        "R-Pcom": 8,
+        "L-Pcom": 9,
+        "Acom": 10,
+        "R-ACA": 11,
+        "L-ACA": 12,
+        "abc": 13,
+        "xyz": 14,
+        "3rd-A2": 15
+    },
+    "numTraining": 240,
+    "file_ending": ".nii.gz"
+}

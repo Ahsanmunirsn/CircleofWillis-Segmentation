@@ -1,0 +1,9 @@
+test/
+.git/
+*.tar.gz
+.github/
+docs/
+documentation/
+TopCoW_Algo_Submission/
+nnUNet_raw/
+__pycache__/
